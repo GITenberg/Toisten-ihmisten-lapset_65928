@@ -1,10 +1,13 @@
 _repo: Toisten-ihmisten-lapset_65928
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Koskenjaakko, Anna
     gutenberg_agent_id: '53490'
     url: http://www.gutenberg.org/2009/agents/53490
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Habberton, John
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1427
     wikipedia: https://en.wikipedia.org/wiki/John_Habberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65928#Toisten-ihmisten-lapset
 gutenberg_issued: '2021-07-27'
 gutenberg_type: Text
 identifiers:
